@@ -13,15 +13,15 @@ Matches the game window bounds in real time, applies an adjustable black tint wi
 - **Floating Control Bar**
   - Compact bar anchored at the top-center of the game window.
   - **Opacity Slider (0% – 90%)**: Adjusts screen darkness. Capped at 90% for window stability.
-  - **Master Volume Slider (0% – 100%)**: Controls game master volume directly via Windows Core Audio (WASAPI).
+  - **Master Volume Slider (0% – 100%)**: Controls game master volume directly via Windows Core Audio.
 
 - **Expandable Options Menu**
   - **Right-click** anywhere on the control bar to toggle settings:
     - **Mute on focus loss**: Automatically mutes the game when switching to another window or minimizing, and restores audio when returning.
-    - **Autostart with Windows**: Manages a shortcut in Windows Startup (`shell:startup`). Automatically revalidates and updates the target path if the executable is ever moved.
+    - **Autostart with Windows**: Manages a shortcut in Windows Startup (`shell:startup`).
 
 - **System Tray Integration**
-  - **No Taskbar Clutter**: Runs in the background without occupying space on the Windows taskbar (`ShowInTaskbar="False"`).
+  - **No Taskbar Clutter**: Runs in the background without occupying space on the Windows taskbar.
   - **Left-Click**: Toggles or brings the control bar to the front.
   - **Right-Click**: Context menu with **Settings** and **Exit**.
 
