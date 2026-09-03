@@ -35,7 +35,7 @@ Matches the game window bounds in real time, applies an adjustable black tint wi
 
 ### Running the Executable
 1. Download the latest `UmamusumeDarkMode.exe` from the **Releases** section.
-2. Place `UmamusumeDarkMode.exe` in any folder of your choice (e.g. on your Desktop or in `C:\Users\<Username>\Desktop\UmamusumeDarkMode\`).
+2. Place `UmamusumeDarkMode.exe` in any folder of your choice (e.g. on your Desktop).
 3. Run `UmamusumeDarkMode.exe`.
    - The app icon will appear in your Windows System Tray (notification area).
    - *(Optional)* Right-click the control bar (or tray icon) and enable **Autostart with Windows**.
