@@ -78,7 +78,7 @@ Stores your configured opacity, master volume level, and focus-mute preference a
 
 ### Build Command
 ```powershell
-git clone https://github.com/your-username/UmamusumeDarkMode.git
+git clone https://github.com/mayiflex/UmamusumeDarkMode.git
 cd UmamusumeDarkMode
 dotnet build -c Release
 ```
